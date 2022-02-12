@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>V.5258395f-4030-11ec-bb78-54bf64226b19.jpg</filename>
+	<path>C:\Users\HIMANSHI KAUSHIK\Desktop\data\Tensorflow\workspace\images\collectedimages\V.5258395f-4030-11ec-bb78-54bf64226b19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>158</ymin>
+			<xmax>310</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

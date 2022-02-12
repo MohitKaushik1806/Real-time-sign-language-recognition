@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>O.be594045-402f-11ec-8126-54bf64226b19.jpg</filename>
+	<path>C:\Users\HIMANSHI KAUSHIK\Desktop\data\Tensorflow\workspace\images\collectedimages\O.be594045-402f-11ec-8126-54bf64226b19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>174</ymin>
+			<xmax>262</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

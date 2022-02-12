@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>R.ff1d7024-402f-11ec-8057-54bf64226b19.jpg</filename>
+	<path>C:\Users\HIMANSHI KAUSHIK\Desktop\data\Tensorflow\workspace\images\collectedimages\R.ff1d7024-402f-11ec-8057-54bf64226b19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>196</ymin>
+			<xmax>168</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

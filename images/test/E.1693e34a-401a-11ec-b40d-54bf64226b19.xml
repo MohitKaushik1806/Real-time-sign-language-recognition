@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>E.1693e34a-401a-11ec-b40d-54bf64226b19.jpg</filename>
+	<path>C:\Users\HIMANSHI KAUSHIK\Desktop\data\Tensorflow\workspace\images\collectedimages\E.1693e34a-401a-11ec-b40d-54bf64226b19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>233</ymin>
+			<xmax>256</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
